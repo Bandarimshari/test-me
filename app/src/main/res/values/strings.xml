@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BandariEx</string>
+    <string-array name="positions">
+
+        <item>Employee</item>
+        <item>Manager</item>
+        <item>Trainee</item>
+
+    </string-array>
+
+    <string name="Name">Name</string>
+    <string name="Position">Position</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone</string>
+    <string name="btnFlipCard">FLIP CARD</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+
+</resources>
+
